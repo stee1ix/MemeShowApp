@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Show</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="meme_share_title">Meme Show</string>
+    <string name="generate_button_text">Generate</string>
+</resources>
